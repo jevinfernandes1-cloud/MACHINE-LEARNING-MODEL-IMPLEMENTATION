@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-**Machine Learning Model Implementation – Project Description
+**Project Description
 
 For this project, I focused on building a machine learning predictive model using the Scikit-learn library in Python. The main goal was to implement a model that can take in some input data, learn patterns from it, and then classify or predict outcomes. Machine learning is one of the most exciting areas in computer science today, and this project gave me a hands-on experience in creating my own intelligent system.
 
