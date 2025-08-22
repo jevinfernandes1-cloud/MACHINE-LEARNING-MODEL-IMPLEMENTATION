@@ -13,3 +13,5 @@
 *MENTOR*: NEELA SANTHOSH
 
 #OUTPUT
+
+<img width="792" height="673" alt="Output task4" src="https://github.com/user-attachments/assets/a07045e6-3040-4340-9449-814cb241d204" />
